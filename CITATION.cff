@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "CA Sensitivity Analysis"
+abstract: "Python script to compute cholesterol-sensor sensitivity from chronoamperometry calibration traces by averaging the current over a fixed window at each plateau and regressing the averaged currents against the known cholesterol concentrations."
+type: software
+authors:
+  - family-names: "Yang"
+    given-names: "Shuyi"
+repository-code: "https://github.com/BaileysY/ca-sensitivity-analysis"
+license: MIT
+version: 1.0.1
+date-released: "2026-07-29"
+keywords:
+  - electrochemical biosensor
+  - chronoamperometry
+  - cholesterol
+  - sensitivity
